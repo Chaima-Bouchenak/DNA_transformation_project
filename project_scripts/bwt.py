@@ -1,11 +1,6 @@
 # coding ~utf-8
 """
-
-Author: Louai KB
-
 Burrows Wheeler Algorithm to transform sequences into Burrows Wheeler Transform
-in ordre to reduce entropy and facilitate the Huffman compression process.
-
 """
 
 class Bwt:
