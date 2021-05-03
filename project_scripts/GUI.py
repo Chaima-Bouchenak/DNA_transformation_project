@@ -1,11 +1,7 @@
 # coding ~utf-8
 
 """
-
-Author: Louai KB
-
-View of the application
-
+User interface project setUp
 """
 import tkinter as tk
 from tkinter import ttk
