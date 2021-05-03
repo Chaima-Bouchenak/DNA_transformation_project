@@ -37,3 +37,9 @@ To get a local copy up and running follow these simple steps
 ### 2. Start the app
    ```sh
    cd project_scripts/
+   ```
+     
+### 3. Run the script
+```sh
+   python main.py
+   ```
