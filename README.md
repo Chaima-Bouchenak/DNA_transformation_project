@@ -24,6 +24,7 @@ it contains Four major processes :
 
 <!-- User manuel -->
 To get a local copy up and running follow these simple steps
+PLEASE USE A LINUX DISCRIBUTION OPERATING SYSTEM.
 
 ### 1. Get the project on your local machine
 * Clone the repository locally
@@ -43,3 +44,4 @@ To get a local copy up and running follow these simple steps
 ```sh
    python main.py
    ```
+Re run this command of each process use.
